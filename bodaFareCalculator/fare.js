@@ -1,6 +1,6 @@
 function calculateBodaFare (){
     let input = prompt ('Unafika wapi Mkubwa? Kilometer ngapi?:') //Makes Propmt
-    let distanceInKm = Number(input) //Allows prompt input
+    let distanceInKm = Number(input) //limits prompt input to number
 
     const baseFare = 50 // Gives Base Fare
     const chargePerKm = 15 // Gives Charge for one Kilometer
