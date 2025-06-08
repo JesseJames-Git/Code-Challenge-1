@@ -20,4 +20,6 @@ function estimateTransactionFee (){
     console.log (`Total amount to be debited: KES ${total}`)
 
     console.log (` Send Money Securely!`)
+    
+//shows output
 }
