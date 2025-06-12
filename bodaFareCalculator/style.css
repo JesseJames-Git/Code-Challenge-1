@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to bottom right, aqua, teal , aqua
+    );
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+    
+}
+.statements {
+    margin-top: 20px;
+    padding-top: 35px;
+    font-size: 60px;
+    color: antiquewhite;
+    font-weight: bold;
+}
